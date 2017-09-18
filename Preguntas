@@ -1,0 +1,65 @@
+PREGUNTAS
+
+ 1) Solicitar al usuario su edad por teclado. Luego, indicar a qué grupo de edad pertenece, según la siguiente clasificación:
+    
+    * Entre 0 y 3 años: bebé.
+    * Entre 4 y 11 años: niño.
+    * Entre 12 y 17 años: adolescente.
+    * Entre 18 y 39 años: adulto joven.
+    * Entre 40 y 59 años: adulto.
+    * De 60 años hacia arriba: adulto mayor.
+
+2) Solicitar al usuario dos números enteros A y B por teclado. Luego, indicar a qué clase pertenecen ambos números, según la siguiente clasificación:
+    
+    * Si A es negativo y B es negativo: números de clase 1.
+    * Si A es negativo y B es positivo: números de clase 2.
+    * Si A es positivo y B está entre 1 y 3: números de clase 3.
+    * Si A es cero y B es cero: números de clase 4.
+    * En otro caso: no computables.
+    
+3) Solicitar al usuario los datos de punto flotante que sean necesarios para el cálculo del área de la base y para el cálculo del volumen de una esfera, un cono 
+       recto, una pirámide recta y un paralelepípedo. Luego, imprima los resultados correspondientes por pantalla.
+    
+4) Escribir una aplicación que solicite su nombre y apellido paterno, nombre de asignatura cursada y 5 notas para dicha asignatura. Luego, imprima en pantalla 
+       una tabla correctamente formateada para indicar sus datos personales, el nombre de la asignatura, las 5 notas ingresadas y el promedio aritmético de dichas
+       notas.
+       
+5) Se necesita una aplicación que reciba el nombre y el valor de 5 productos (sin IVA). Luego, imprima una tabla en consola que muestre el nombre de los 
+       productos junto a su valor sin IVA, su valor con IVA (recuerde que el IVA equivale al 19% del precio bruto del producto), la suma total de los precios sin IVA y la suma total
+       de los precios con IVA.
+ 
+6) Solicitar al usuario un número de punto flotante cualquiera. Luego, genere la secuencia de números de punto flotante siguiente (que comienza con dos 
+       valores 2.0 y que genera un nuevo valor sumando los dos últimos) mientras que la suma sea menor que el número ingresado. Por ejemplo, la secuencia 
+       hasta 20.0 está representada por la secuencia: 2.0 2.0 4.0 6.0 10.0 16.0.
+      
+7) Solicitar al usuario 5 números (de nombre a1, a2, a3, a4 y a5) para evaluar las siguientes expresiones matemáticas:
+ 
+8) Imprima una tabla en la consola que, dada una variable de nombre radio, cuyos valores oscilan entre 0.2 Y 3.2 metros, de 0.5 en 0.5 metros, muestre el radio 
+       de la circunferencia en la primera columna (indicando la unidad de medida [m]), el valor de la longitud de la circunferencia en la segunda columna (indicando 
+       la unidad de medida [m]) y el valor del área en la tercera columna (indicando la unidad de medida [m^2]).
+
+9) Convierta una temperatura en grados Farhenheit a en grados Celsius, utilizando la fórmula (nota: recuerde que las fórmulas deberían utilizar siempre números 
+       de punto flotante - o números decimales).
+       
+10) Sabiendo que un dólar equivale a 494,5 pesos chilenos, un peso mexicano equivale a 38,4 pesos chilenos, un euro equivale a 636,3 pesos chilenos, un yen 
+        equivale a 5,9 pesos chilenos y una libra esterlina equivale a 759,13 pesos chilenos, cree una aplicación para convertir la cantidad ingresada por el usuario de cada una
+        de esas monedas a moneda nacional.
+        
+11) Dado un número de punto flotante ingresado por teclado, indique en la consola si es negativo, positivo o cero, e imprima luego el valor absoluto de dicho 
+        número.
+        
+12) Cree una aplicación que calcule y muestre por pantalla todos los números primos entre 2 y 1000 (pista: un número primo es divisible solo por 1 y por sí mismo).
+
+13) Cree una aplicación que tome un número entero y muestre por consola el conjunto de todos sus divisores entre 1 y el número (pista: un número es divisible 
+        por otro si el resto de la división entera es cero).
+        
+14) Cree un programa con un menú de selección que le permita elegir convertir una temperatura de: grados Celsius a Farhenheit, grados Fahrenheit a Celsius, 
+        Celsius a Kelvin o Kelvin a Celsius. Busque las fórmulas en Internet.
+
+15) Cree un programa que calcule la suma de los N primeros enteros, donde el número N es ingresado por el usuario a través del teclado.
+
+16) Escriba un programa que reciba dos números de punto flotante por teclado, más un carácter (que puede ser +, -, * o /) y que, según el carácter, realice la 
+        operación indicada con ambos números y muestre el resultado por consola.
+
+ 
+ 
